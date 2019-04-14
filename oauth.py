@@ -1,0 +1,1 @@
+PASS = "in here goes the thing from https://twitchapps.com/tmi/, straight-up copy-paste it"
